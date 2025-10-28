@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "userEmail": "mgirgis@chartswap.com",
+  "accessibleAccounts": [
+    {
+      "accountId": "DV-001"
+    },
+    {
+      "accountId": "DV-002"
+    }
+  ],
+  "timestamp": "2025-10-22T09:00:00Z"
+}
